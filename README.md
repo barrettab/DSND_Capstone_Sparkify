@@ -1,7 +1,10 @@
 # DSND_Capstone_Sparkify
 
-**Background**
-This project is all about using Apache Spark and how you can use to to handle big data to create a model that will predict customer churn for a fictional music streaming company created by Udacity called "Sparkify" 
+**Background** 
+
+This project is all about using Apache Spark and how you can use to to handle big data to create a model that will predict customer churn for a fictional music streaming company created by Udacity called "Sparkify". Churn is another way to saying a customer cancellation.  
+
+The goal of this is in the real world would be to use this to 
 
 **Requirements** 
 - Anaconda (Not required by recomended)
