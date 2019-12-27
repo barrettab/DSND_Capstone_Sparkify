@@ -2,9 +2,8 @@
 
 **Background** 
 
-This project is all about using Apache Spark and how you can use to to handle big data to create a model that will predict customer churn for a fictional music streaming company created by Udacity called "Sparkify". Churn is another way to saying a customer cancellation.  
-
-The goal of this is in the real world would be to use this to 
+This project is part of the Udacity DSND program where we got exposure to the tools used to work with “Big Data”. This project was very interesting as it focused on something that business all around the globe evaluate and try to reduce as much as possible. I am of course talking about churn. Churn, or customer churn is also known as customer turnover or customer attrition; it is essentially the loss of a customer or client.
+The data used in this project was the smaller subset of the original 12GB file which was approximately 128MB. The reason we are using the smaller dataset is so we can run this locally as the larger file would be far to large for most desktop computers to handle.
 
 **Requirements** 
 - Anaconda (Not required by recomended)
@@ -27,3 +26,5 @@ To Run Locally on Your Computer
 - Precision:  0.71
 - Recall:  0.62
 - F1-Score:  0.67
+
+Full blog post here https://medium.com/@barrett.adam199/predicting-customer-churn-for-sparkify-8fe26a843dbe
