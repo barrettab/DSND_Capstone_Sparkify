@@ -31,3 +31,4 @@ To Run Locally on Your Computer
 - F1-Score:  0.67
 
 Full blog post here https://medium.com/@barrett.adam199/predicting-customer-churn-for-sparkify-8fe26a843dbe
+
