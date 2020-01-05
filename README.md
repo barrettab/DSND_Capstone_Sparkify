@@ -18,6 +18,8 @@ The data used in this project was the smaller subset of the original 12GB file w
 **Instructions**
 
 Dataset= 'Sparkify' Small Dataset https://drive.google.com/open?id=1-hi73PWXdMxNLvYWJtL2Y6Rig2rT5B5K
+https://drive.google.com/open?id=178Bf5zs4tJqCs0_Ke6jSWD01hlLAII1e
+
 
 To Run Locally on Your Computer
 1. Launch anaconda and open the notebook "Sparkify.ipynb"
